@@ -1,69 +1,57 @@
-## Hi there 👋
-
+## 🚀 Hey there, I'm Himanshi!
+## Quantum | AI | Software Developer | Researcher
 <div align="center">
-  <img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExMjUxMDYsIm5iZiI6MTc0MTEyNDgwNiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA0VDIxNDY0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1NDI2OTFjODM3OGFjODJjZDBhNjMwNTIwNzU1YzIzZmQ0ZmM0YjhlZWRkMWNmMzM4OWNjMWQxOTgxNjY1MjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8Y9gYuuU0aX4pCQCaXXG4sb6yiGu8ctgxiA8Jsy2rR0)"  />
+  <img height="200" src="https://camo.githubusercontent.com/08379040ed04c695c89593ee75845b3bcfd057b7a5c3e945d8dd18fa9d74c33b/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+I am [Himanshi](https://www.linkedin.com/in/himanshi-singh-878a42145/), an aspiring Quantum Computing, AI, and Software Developer with a strong foundation in quantum information science, machine learning, and software engineering, with hands-on experience in quantum sensing, metrology, and experimental physics.
+
+
+###
+<p float="left">
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  </a>
+
+  <a href="https://www.ibm.com/quantum/qiskit" >
+  <img src="https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif" height="100" />
+ </a>
+
+ <a href="https://www.tensorflow.org/" >
+  <img src="https://user-images.githubusercontent.com/29937202/46917329-7444ec80-cfe3-11e8-8e09-e213540f3c54.gif" height="100" />
+ </a>
+  <a href="https://pytorch.org/" >
+  <img src="https://camo.githubusercontent.com/58c6c7b82909146df8eb053a430e803819c38bc2171b94f2135868d9ebc6d59d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3931392f312a5a344c3644315269516175476d423354474b5f774a672e676966" height="90" />
+ </a>
+
+ <a href="https://scikit-learn.org/stable/" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="80" />
+ </a>
+ 
+###
+## 🔧 Tech Stack & Skills
+⚛ **Quantum**: Qiskit | QuTiP | Quantum Metrology | Spin Squeezing  
+🤖 **AI & ML**: TensorFlow | PyTorch | Scikit-Learn  
+💻 **Programming**: Python | MATLAB | C++ | LaTeX  
+🛠 **Software Dev**: Git | Algorithms | Data Structures
+
+## 🚀 My Journey  
+- **Quantum Researcher**: Worked on spin squeezing and entanglement techniques for Radium EDM experiments at MSU  
+- **AI Enthusiast**: Exploring AI applications in quantum computing and beyond  
+- **Software Developer**: Building projects in Python, data science, and AI-driven applications  
+
+## 🔥 Current Projects  
+- **AI-powered Resume Generator** – Building an LLM-based ATS-friendly resume optimizer  
+- **Python Problem-Solving** – Developing general coding templates for efficiency  
+
+
+## 📫 Let’s Connect!
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/himanshi-singh-878a42145/) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:himanshisingh082@gmail.com) 💌
+
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
