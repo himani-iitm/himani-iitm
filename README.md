@@ -47,10 +47,6 @@ I am [Simmi](https://www.linkedin.com/in/himanshi-singh-878a42145/), an aspiring
 - **Python Problem-Solving** – Developing general coding templates for efficiency  
 
 
-## 📫 Let’s Connect!
-
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/himanshi-singh-878a42145/) 👨🏻‍💻
- - Shoot Me an [Email](mailto:himanshisingh082@gmail.com) 💌
 
 
 ###
